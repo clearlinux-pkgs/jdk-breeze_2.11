@@ -1,6 +1,6 @@
 Name     : jdk-breeze_2.11
 Version  : 0.11.2
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2.jar
 Source0  : http://repo2.maven.org/maven2/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2.jar
 Source1  : http://repo2.maven.org/maven2/org/scalanlp/breeze_2.11/0.11.2/breeze_2.11-0.11.2.pom
